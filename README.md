@@ -27,7 +27,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TahsinTuran&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TahsinTuran)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TahsinTuran)  
 
