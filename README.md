@@ -2,7 +2,7 @@
 #### I am 8th grade student learning how to code and also trying to improve myself by 1% every day
 ![I am 8th grade student learning how to code and also trying to improve myself by 1% every day](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-TahsinTuran&color=blueviolet)
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about anything, I will try my best to answer  
@@ -31,5 +31,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TahsinTuran)  
 
-![Profile views](https://gpvc.arturio.dev/TahsinTuran)  
 
