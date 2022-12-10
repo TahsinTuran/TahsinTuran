@@ -1,4 +1,4 @@
-### Hi there 👋, my name is TahsinTuran
+### Hi there 👋, my name is TahsinTuran, a programming enthusiast
 #### I am 8th grade student learning how to code and also trying to improve myself by 1% every day
 
 
