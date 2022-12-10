@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about anything, I will try my best to answer  
-- 📫 How to reach me: You can reach me at discord: Haskjdd#3320 
+- 📫 How to reach me: You can reach me at discord: Turan#5656
 - 😄 Pronouns: He/Him 
 
 
