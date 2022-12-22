@@ -20,7 +20,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinturan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&border_radius=15" alt="tahsinturan"/>
 
 
 
